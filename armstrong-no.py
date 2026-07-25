@@ -1,5 +1,5 @@
 num = int(input("Enter a 3-digit number: "))
-temp = num
+temp = num 
 sum = 0 
 while temp > 0:
     digit = temp % 10
