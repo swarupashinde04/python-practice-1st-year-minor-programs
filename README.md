@@ -10,7 +10,7 @@ These programs helped me understand **basic logic building** and core Python con
 - Basic Mathematics Logic
 
 ## Programs Included
-1. Even/Odd Number Checker  
+1. Even/Odd Number Checker
 2. Prime Number Checker  
 3. Leap Year Checker  
 4. Armstrong Number Checking
