@@ -1,6 +1,6 @@
 # Python Practice – 1st Semester
 
-This repository contains basic Python programs that I practiced during my **1st semester**.  
+This repository contains basic Python programs that I practiced during my **1st semester**. 
 These programs helped me understand **basic logic building** and core Python concepts.
 
 ## Topics Covered
